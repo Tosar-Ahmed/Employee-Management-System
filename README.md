@@ -29,6 +29,6 @@ I completed this project when i was in 4th semester. To complete this project I 
 
 Built with Java programming and The software name is NetBeans IDE8.2
 
-# Contributing
+## Contributing
 
 Basically employee’s all details written by a paper mode. There is not much use to keep all details like computerize. For all data save this can be a good software or program whatever we say, this is very helpful. There are many functions can be updated and I will keep in touch with this project and keep updating new features. And also come with more update version.
