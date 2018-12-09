@@ -1,4 +1,4 @@
-# Title 
+## Title 
 Employee-Management-System
 
 ## Getting Started
@@ -13,21 +13,21 @@ It is a project that was created by Java programming language. As a result to co
 3.Then, I had completed download Netbeans for based on my computer configuration. 
 4.Finally, I discovered all the installment process and accept license aggrement.
 
-# Usages Instruction
+## Usages Instruction
 
-Basically, There are two types of user in the project like as company staff.example: manager,advertiser, manufacturer etc.Another type of user is employee of the company. This two types of users all details and other things to do, Administration have no need to login.But only manager or junior_manager can add, delete, update and others things. First, in employee: i. Administration can show their records ii. They can update their record iii. Can delete record iv. can check their absent and fine will be calculated by system
+There are two types of user in the project like as company staff.example: manager,advertiser, manufacturer etc.Another type of user is employee of the company. This two types of users all details and other things to do, Administration have no need to login.But only manager or junior_manager can add, delete, update and others things. First, in employee: i. Administration can show their records ii. They can update their record iii. Can delete record iv. can check their absent and fine will be calculated by system
 Second, in all other staff: i. Can update, delete, add Detail ii. Calculate their Salary iii. Show Salary, vocation day etc.
 
-# version
+## version
 
 Version is 1.0
 
-# History
+## History
 I completed this project when i was in 4th semester. To complete this project I took 2 weeks. I didn't need any cost to complete the project.
 
-# Built with
+## Built with
 
-Bluit with Java programming and The software name is NetBeans IDE8.2
+Built with Java programming and The software name is NetBeans IDE8.2
 
 # Contributing
 
